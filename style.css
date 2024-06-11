@@ -163,6 +163,9 @@ body{
     align-items : center;
     flex-wrap: wrap;
   }
+  .formBox #createAcc{
+    width: 70%;
+  }
   .formBox i{
     font-size: 20px;
     top: 98px;
